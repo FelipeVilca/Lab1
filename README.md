@@ -1,10 +1,1 @@
-Find numbers in string with characters.
-
-The console application takes a text string as an argument. 
-The text string are then beeing searched for all substrings that are numbers that begin and ends in the same digit, without the start / end digit, or any other character other than numbers occur in between. 
-Ex. 3463, but 34363 is not because it exists another 3rd in the number, in addition to the start and final figure. 
-Strings with letters in eg 95a9 is also not a correct number. 
-Print and selecting each correct substring for each such substring that matches the above criterion, the program print one row with the entire string, but where the sub-string is highlighted in green.
-
-The program also add together all the numbers it founds and print it out last in the program. 
-Example output for input "29535123p48723487597645723645": Total = 5836428677242
+d
